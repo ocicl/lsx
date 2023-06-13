@@ -1,0 +1,10 @@
+* lsx
+
+Embeddable HTML templating engine for Common Lisp with JSX-like syntax
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/lsx.git   |
+| commit  | 3a8ecea  |
+| systems | lsx |
+|---------+-------------------------------------------|
+
